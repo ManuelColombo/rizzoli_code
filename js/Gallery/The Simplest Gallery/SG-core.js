@@ -8,6 +8,11 @@ version: 1.0
 
 jsfiddle example: http://jsfiddle.net/manuelcolombo/e5NQr/
 
+only the first element of the lista has to be visible
+eg. img{ display : block; }
+	img ~ img { display : none; }
+
+
 */
 
 
