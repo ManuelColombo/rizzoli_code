@@ -1,4 +1,7 @@
-Simplest-Gallery
-================
+Collection of scripts, html &css snippets for fast reuse
+========================================================
 
-A simple and fast to implement jQuery gallery for boring clients
+
+Boring cliens requires boring and repetitive tasks.
+
+Here is a collection of small pieces of code to make those things faster
